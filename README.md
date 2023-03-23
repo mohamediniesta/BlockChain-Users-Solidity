@@ -1,6 +1,10 @@
 # BlockChain-Users
 An example of adding and removing users in the blockchain using the smart contract.
 
+<center>
+<img src="blockchain.png">
+</center>
+
 
 # :exclamation: Requirements 
 
